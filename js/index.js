@@ -1,5 +1,8 @@
-let one, two, three, four, five, six, seven, eight, nine, ten
-let f1, f2, f3, f4, f5, f6, f7, f8, f9, f10, f11, x, y
+// selectors
+let one, two, three, four, five, six, seven, eight, nine, ten, x, y
+
+// functions
+let f1, f2, f3, f4, f5, f6, f7, f8, f9, f10, f11
 
 // 1. click fun bus logo on top left to turn turquoise
 one = document.querySelector('.logo-heading')
