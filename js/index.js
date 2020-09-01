@@ -1,7 +1,7 @@
 let one, two, three, four, five, six, seven, eight, nine, ten
 let f1, f2, f3, f4, f5, f6, f7, f8, f9, f10, f11, x, y
 
-// 1. click fun bus logo on top left to turn red
+// 1. click fun bus logo on top left to turn turquoise
 one = document.querySelector('.logo-heading')
 f1 = e => (e.target.style.color = 'turquoise')
 
